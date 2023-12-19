@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Diego
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in Front-end Development
 - 🌱 I’m currently learning HTML, CSS, and Javascript
 - 📫 Find me at @This_is_DiegoMG
 
